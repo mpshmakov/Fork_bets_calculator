@@ -1,1 +1,2 @@
-# ConsoleApplication1
+# Fork_bets_calculator
+
