@@ -6,4 +6,4 @@ For example: you have 100 money in total and you know the multipliers for the ma
 
 ![image](https://github.com/mpshmakov/Fork_bets_calculator/assets/104257422/05162c1f-74fb-4732-9f4b-f62cd05b1bd1)
 
-i don't to bets myself. just made this little thing to practice application devlopment on C++ and to learn ImGui.
+i don't to bets myself. just made this little thing to practice application devlopment on C++ and to learn ImGui :)
